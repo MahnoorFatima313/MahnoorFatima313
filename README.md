@@ -1,10 +1,10 @@
 <!-- ============ HEADER ============ -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2a0000,50:8b0000,100:d4af37&height=240&section=header&text=Mahnoor%20Fatima&fontSize=56&fontColor=ffffff&fontAlignY=40&desc=SEO%20and%20Web%20Developer%20-%20UI%20UX%20Designer&descSize=20&descAlignY=62&descColor=FFE9A0" width="100%" alt="header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2a0000,50:8b0000,100:d4af37&height=240&section=header&text=Mahnoor%20Fatima&fontSize=56&fontColor=ffffff&fontAlignY=40&desc=SEO%20and%20Web%20Developer%20-%20Cloud%20Computing%20IT%20Student&descSize=20&descAlignY=62&descColor=FFE9A0" width="100%" alt="header"/>
 
 <a href="https://github.com/MahnoorFatima313">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=22&duration=3200&pause=900&color=D4AF37&center=true&vCenter=true&width=820&height=50&lines=Merging+Artistic+Creativity+with+Clean+Code;Crafting+Scalable+Web+Apps+with+React;SEO+%C2%B7+Frontend+%C2%B7+UI%2FUX+%C2%B7+Digital+Marketing;Eyes+set+on+Cloud+Technologies+%E2%98%81%EF%B8%8F" alt="typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=22&duration=3200&pause=900&color=D4AF37&center=true&vCenter=true&width=820&height=50&lines=Merging+Artistic+Creativity+with+Clean+Code;Crafting+Scalable+Web+Apps+with+React;SEO+%C2%B7+Web+Development+%C2%B7+Cloud+Computing+%C2%B7+IT+Student;Eyes+set+on+Cloud+Technologies+%E2%98%81%EF%B8%8F" alt="typing" />
 </a>
 
 <br/>
@@ -64,8 +64,8 @@
 <table>
 <tr>
 <td align="center" width="25%"><b>✨ MorphInk</b><br/><sub>React · AI sketch-to-art<br/>Anthropic API</sub></td>
-<td align="center" width="25%"><b>🌐 QllmSoft.com</b><br/><sub>React company site<br/>SEO &amp; responsive UI</sub></td>
-<td align="center" width="25%"><b>🏗️ QllmDocs</b><br/><sub>ASP.NET MVC Razor<br/>Landing page</sub></td>
+<td align="center" width="25%"><b>🌐 QllmSoft.com</b><br/><sub>React company site<br/>SEO & responsive UI</sub></td>
+
 <td align="center" width="25%"><b>🎨 Portfolio</b><br/><sub>React · 3D · animations<br/>In progress</sub></td>
 </tr>
 </table>
