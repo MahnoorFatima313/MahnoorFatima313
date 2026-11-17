@@ -1,7 +1,7 @@
 <!-- ============ HEADER ============ -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2a0000,45:8b0000,100:d4af37&height=260&section=header&text=Mahnoor%20Fatima&fontSize=64&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=SEO%20%26%20Web%20Developer%20%7C%20UI%2FUX%20Designer&descSize=20&descAlignY=60&descColor=FFE9A0" width="100%" alt="header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2a0000,50:8b0000,100:d4af37&height=240&section=header&text=Mahnoor%20Fatima&fontSize=56&fontColor=ffffff&fontAlignY=40&desc=SEO%20and%20Web%20Developer%20-%20UI%20UX%20Designer&descSize=20&descAlignY=62&descColor=FFE9A0" width="100%" alt="header"/>
 
 <a href="https://github.com/MahnoorFatima313">
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=22&duration=3200&pause=900&color=D4AF37&center=true&vCenter=true&width=820&height=50&lines=Merging+Artistic+Creativity+with+Clean+Code;Crafting+Scalable+Web+Apps+with+React;SEO+%C2%B7+Frontend+%C2%B7+UI%2FUX+%C2%B7+Digital+Marketing;Eyes+set+on+Cloud+Technologies+%E2%98%81%EF%B8%8F" alt="typing" />
@@ -90,11 +90,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=MahnoorFatima313&bg_color=1c0000&color=FFE9A0&line=D4AF37&point=FFFFFF&area=true&area_color=8b0000&hide_border=true&radius=20&title_color=FFD700" width="95%" />
 </p>
 
-<h3 align="center">🔝 Top Contributed Repos</h3>
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=MahnoorFatima313&limit=5&theme=dark&combine_all_yearly_contributions=true" />
-</p>
-
 <!-- ============ SNAKE ============ -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/MahnoorFatima313/MahnoorFatima313/output/snake-red.svg" alt="snake animation" width="100%" />
@@ -105,6 +100,6 @@
 
 <a href="https://visitcount.itsvg.in"><img src="https://komarev.com/ghpvc/?username=MahnoorFatima313&label=Profile+Views&color=8b0000&style=for-the-badge" /></a>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:d4af37,55:8b0000,100:2a0000&height=140&section=footer&reversal=true" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2a0000,50:8b0000,100:d4af37&height=90&text=Thanks%20for%20visiting%20%E2%9C%A8&fontSize=24&fontColor=ffffff&animation=fadeIn" width="100%"/>
 
 </div>
